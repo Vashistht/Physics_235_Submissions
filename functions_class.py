@@ -5,7 +5,7 @@ Created on Nov 23 19:03:01 2021
 
 @author: vashisth
 """
-
+# %%
 
 import numpy as np
 import math
@@ -20,7 +20,7 @@ from ipywidgets import FloatProgress
 from IPython.display import display
 
 
-
+# %%
 # define the particle class:
 class particle:
     m=1.6726219e-27 #mass (kg)
